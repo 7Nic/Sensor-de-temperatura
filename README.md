@@ -13,3 +13,6 @@ Gabriel Nicolau
 Daniel Froes
 Guilherme
 Mateus Bragança
+
+
+![alt text](./arduino.jpg)
