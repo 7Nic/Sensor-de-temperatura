@@ -9,9 +9,9 @@ Há também um botão que converte a temperatura de Celsius para Farenheit, que 
 Foi incluído também um pontenciômetro para ajustar o brilho do LCD
 
 Alunos;
-Gabriel Nicolau
-Daniel Froes
-Guilherme
+Gabriel Nicolau,
+Daniel Froes,
+Guilherme,
 Mateus Bragança
 
 
