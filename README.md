@@ -14,6 +14,8 @@ Foi incluído também um pontenciômetro para ajustar o brilho do LCD
 - Guilherme,
 - Mateus Bragança
 
-
+## Foto do circuito
 ![alt text](./arduino.jpg)
+
+## Conexões do Arduíno
 ![alt text](./circuitoProjetoArduino.jpg)
