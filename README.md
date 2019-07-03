@@ -8,11 +8,11 @@ Quando o último led acende um Buzzer é acionado para apitar e avisar que o lim
 Há também um botão que converte a temperatura de Celsius para Farenheit, que é mostrado no LCD
 Foi incluído também um pontenciômetro para ajustar o brilho do LCD
 
-Alunos;
-Gabriel Nicolau,
-Daniel Froes,
-Guilherme,
-Mateus Bragança
+## Alunos
+- Gabriel Nicolau,
+- Daniel Froes,
+- Guilherme,
+- Mateus Bragança
 
 
 ![alt text](./arduino.jpg)
