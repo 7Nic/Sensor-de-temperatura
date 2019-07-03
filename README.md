@@ -1,4 +1,4 @@
-# Temperature-Arduino
+# Sensor-de-temperatura
 Descrição:
 O sensor de temperatura LM35 envia a informação analógica para o Arduino.
 Com essa informação é calculada a temperatura em graus Celsius. 
